@@ -35,11 +35,14 @@ It went live January 2021.
 
 This is a [Jekyll](https://jekyllrb.com) website
 (designed to run nicely on [GitHub pages](https://pages.github.com)) —
-the [whole repo](https://github.com/RHUL-CS-Projects/compsci-superbasics)
-(inside RHUL-CS-Projects)
-is available under the MIT license.
+the whole repo is available under the MIT license.
 
-It's currently a work in progress. More topics coming as time allows.
+<div class="github-link" markdown=1>
+[superbasics ![github](images/github-mark-64px.png) GitHub repo](https://github.com/RHUL-CS-Projects/compsci-superbasics)
+</div>
+
+We keep this RHUL fork (inside RHUL-CS-Projects) up-to-date with changes from the upstream
+<a href="https://github.com/davewhiteland/compsci-superbasics">Beholder&nbsp;repo</a>.
 
 > Photo of [Erinna](https://en.wikipedia.org/wiki/Erinna) having dropped her
 > coffee in Founder's North Quad, Royal Holloway, taken on a snowy day in 2008.
