@@ -11,10 +11,10 @@ with how the text looks (fonts, sizes, layout). All a text editor is really
 doing is editing the text: that is, shuffling the characters around.
 
 Text editors typically use a monospace font: that means every printable
-character occupies the same width. The text file is effectively displayed on a
+character occupies the same width. The text file is therefore displayed on a
 grid.
 
-This is important because it means you can identify the position of a character
+This is useful because it means you can identify the position of a character
 in the file by its line number, and its column number. This information is
 often provided in diagnostic messages (or error messages) when you are
 programming.
