@@ -49,12 +49,12 @@ wider than it is tall. _Portrait_ orientation is taller than it is wide.
 
 ### Refresh rate
 
-The monitor refreshes its display many times a second. The actual speed is
-called its _refresh rate_. Most computer monitors aim to "paint" the whole
-screen up to 60 times a second (this is considerably faster than earlier TV or
-cinema technology). Refreshing the screen display requires that the monitor
-determines the precise colour for every single pixel. Calculating this is an
-intensive task (especially if there are millions of pixels), which is why
+The monitor refreshes its display many times a second. The frequency at which
+it does so is its _refresh rate_. Most computer monitors aim to "paint" the
+whole screen up to 60 times a second (this is considerably faster than earlier
+TV or cinema technology). Refreshing the screen display requires that the
+monitor determines the precise colour for every single pixel. Calculating this
+is an intensive task (especially if there are millions of pixels), which is why
 today's monitors have their own dedicated
 [graphics processing units]({{ site.baseurl }}/hardware/gpu) (GPUs).
 
@@ -74,3 +74,11 @@ that spend all their time responding to requests from other computers, or
 embedded devices operate without them. Examples include robotic controllers,
 the SIM in your phone, an engine management system, or the chip on a credit
 card.
+
+Applications that usually have graphical output but which are deliberately
+being run without displaying it are sometimes called _headless_. For example,
+running a
+[headless web browser](https://en.wikipedia.org/wiki/Headless_browser) can be
+useful if you want the result of what that browser _does_ — typically as part of
+some other process, such as a test suite — without needing to see its output.
+

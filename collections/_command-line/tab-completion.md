@@ -50,8 +50,7 @@ line — it's like being able to look ahead as you're working.
 Note that autocomplete can be very contextual, depending on which program or
 shell you're running. So autocompletion can take into account what it
 knows you are trying to do (from the characters you've already typed). For
-example, if you are trying to change to a directory with the `cd` command, some
-shells' autocomplete will automatically disregard any filename that is not a
+example, if you are trying to change to a directory with the `cd` command, autocomplete might automatically disregard any filename that is not a valid
 directory.
 
 The specific behaviour of autocomplete will vary a little depending on what
