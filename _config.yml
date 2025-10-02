@@ -22,7 +22,7 @@ title: CompSci Superbasics
 description: >- # this means to ignore newlines until "baseurl:"
   Basic things you need to know in order to use your computer
   properly in the CompSci labs.
-baseurl: "/compsci-superbasics"
+baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections_dir: collections
@@ -119,9 +119,24 @@ collections:
       - binary-files.md
       - think.md
   hardware:
+  hardware:
     output: true
     permalink: /hardware/:path/
+    permalink: /hardware/:path/
     order:
+      - hardware.md
+      - monitors.md
+      - processors.md
+      - gpu.md
+      - keyboards.md
+      - mice.md
+      - trackpads-and-touchscreens.md
+      - power.md
+      - connections.md
+      - dongles.md
+      - wifi-and-bluetooth.md
+      - external-drives.md
+      - think.md
       - hardware.md
       - monitors.md
       - processors.md
@@ -143,6 +158,7 @@ collections:
       - command-line.md
       - file-system.md
       - text-files.md
+      - hardware.md
       - hardware.md
 #      - remote-sessions.md
 #      - text-editing.md

@@ -46,3 +46,4 @@ We keep this RHUL fork (inside RHUL-CS-Projects) up-to-date with changes from th
 
 > Photo of [Erinna](https://en.wikipedia.org/wiki/Erinna) having dropped her
 > coffee in Founder's North Quad, Royal Holloway, taken on a snowy day in 2008.
+
