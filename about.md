@@ -41,7 +41,7 @@ the whole repo is available under the MIT license.
 [superbasics ![github](images/github-mark-64px.png) GitHub repo](https://github.com/RHUL-CS-Projects/compsci-superbasics)
 </div>
 
-We keep this RHUL fork (inside RHUL-CS-Projects) up-to-date with changes from the upstream
+Dave Whiteland keeps this RHUL fork (inside RHUL-CS-Projects) up-to-date with changes from the upstream
 <a href="https://github.com/davewhiteland/compsci-superbasics">Beholder&nbsp;repo</a>.
 
 > Photo of [Erinna](https://en.wikipedia.org/wiki/Erinna) having dropped her
